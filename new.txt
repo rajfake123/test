@@ -1,5 +1,5 @@
 first line
 second line
-new line br 3 clone
+new line br 5 clone
 third line
 new line by 1 clone
