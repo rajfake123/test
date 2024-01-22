@@ -1,5 +1,5 @@
 first line
 second line
-new line br 5 clone
+new line br updated by new_del folder clone
 third line
 new line by 1 clone
