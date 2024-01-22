@@ -1,6 +1,1 @@
-first line
-second line
-new line br updated by new_del folder clone
-third line
-this is inserted by env [pro]
-new line by 1 clone
+first line and all line removed by env pro
